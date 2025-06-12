@@ -4,7 +4,6 @@
 💻 Junior Data Engineer | Data Analyst | ML/NLP Enthusiast  
 🌍 Passionate about AI, data-driven solutions, and real-time applications
 
----
 <!--
 ## 🔧 Tech Stack
 **Languages:** Python, R, SQL, JavaScript, HTML, CSS  
