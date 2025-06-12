@@ -11,6 +11,26 @@
 **Tools:** Power BI, Streamlit, MATLAB, Excel, VS Code  
 **Libraries/Frameworks:** Scikit-learn, TensorFlow, LangChain, FAISS, HuggingFace, XGBoost, Plotly, Seaborn  
 
+## 💡 Technical Skills & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-blue?style=flat)
+![FAISS](https://img.shields.io/badge/-FAISS-lightgrey?style=flat)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF8000?style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 ---
 
 ## 🚀 Projects
