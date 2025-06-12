@@ -9,7 +9,7 @@
 <!--## 🔧 Tech Stack
 **Languages:** Python, R, SQL, JavaScript, HTML, CSS  
 **Tools:** Power BI, Streamlit, MATLAB, Excel, VS Code  
-**Libraries/Frameworks:** Scikit-learn, TensorFlow, LangChain, FAISS, HuggingFace, XGBoost, Plotly, Seaborn  -->
+**Libraries/Frameworks:** Scikit-learn, TensorFlow, LangChain, FAISS, HuggingFace, XGBoost, Plotly, Seaborn  
 
 ## 💡 Technical Skills & Tools
 
@@ -49,7 +49,7 @@
 
 <!-- Databases -->
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) 
 
 
 ---
@@ -73,8 +73,8 @@ A hybrid BiLSTM-CNN & XGBoost model analyzing public sentiment on Twitter.
 
 ---
 
-## 📈 GitHub Stats
-![Sudeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudeepben&show_icons=true&theme=default)
+ ## 📈 GitHub Stats
+![Sudeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudeepben&show_icons=true&theme=default)     -->
 
 ---
 
