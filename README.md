@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Benarjee Sudeep Sampath Pyla
 
 🎓 MS in Data Science @ University of Colorado Boulder  
-💻 Junior Data Engineer | Data Analyst | ML/NLP Enthusiast  
+💻 Junior Data Engineer | Data Analyst | AI/ML Enthusiast  
 🌍 Passionate about AI, data-driven solutions, and real-time applications
 
 <!--
